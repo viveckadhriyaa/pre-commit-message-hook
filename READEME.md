@@ -1,6 +1,6 @@
 # Conventional commit hooks
 
-[https://github.com/commutatus/git-hooks-templates.git](https://github.com/viveckadhriyaa/pre-commit-message-hook.git)
+[https://github.com/viveckadhriyaa/pre-commit-message-hook.git](https://github.com/viveckadhriyaa/pre-commit-message-hook.git)
 
 There's one hook attached in this directory that checks for conventional commits
 
